@@ -7,7 +7,7 @@ public class Homework1j {
 
     System.out.println("Координаты точки " + "p2: " + pn2.x + " ; " + pn2.y);
 
-    System.out.println("Расстояние между точками "+ pn2.distance(pn1));
+    System.out.println("Расстояние между точками "+ pn1.distance(pn2));
 
   }
 
