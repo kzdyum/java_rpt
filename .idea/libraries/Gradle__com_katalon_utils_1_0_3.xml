@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.katalon:utils:1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.katalon/utils/1.0.3/4dd01369fce5ec08f2c3aa4568be8ce896b81459/utils-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.katalon/utils/1.0.3/9b0703ad3f7373c1ad86fd74fc6e8d036ed37d8/utils-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
