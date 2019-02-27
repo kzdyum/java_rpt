@@ -2,7 +2,7 @@ package kzdyum.rpt.addressbook;
 
 import org.testng.annotations.Test;
 
-public class GroupCreationTest extends TestBase{
+public class GroupCreationTest extends TestBaseGroup {
 
   @Test
   public void testGroupCreation() throws Exception {
