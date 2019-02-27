@@ -38,12 +38,12 @@ public class TestContactCreation {
   public void testContactCreation() throws Exception {
     initContactCreation();
     fillContactForm(new ContactData(
-            "Ekaterina",
-            "A",
-            "Zdyumayeva",
-            "202a, Minusinska str., Dnipro, Ukraine, 49000",
-            "0667519212",
-            "kzdyum@gmail.com"));
+      "Ekaterina",
+      "A",
+      "Zdyumayeva",
+      "202a, Minusinska str., Dnipro, Ukraine, 49000",
+      "0667519212",
+      "kzdyum@gmail.com"));
     submitContactForm();
   }
 
