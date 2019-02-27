@@ -1,4 +1,4 @@
-package com.example.tests;
+package kzdyum.rpt.addressbook;
 
 public class ContactData {
   private final String firstname;
