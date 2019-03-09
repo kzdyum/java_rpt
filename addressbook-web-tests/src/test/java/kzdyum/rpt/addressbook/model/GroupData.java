@@ -1,4 +1,4 @@
-package kzdyum.rpt.addressbook;
+package kzdyum.rpt.addressbook.model;
 
 public class GroupData {
   private final String name;
