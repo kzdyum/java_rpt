@@ -3,7 +3,7 @@ package kzdyum.rpt.addressbook.tests;
 import kzdyum.rpt.addressbook.model.ContactData;
 import org.testng.annotations.Test;
 
-public class TestContactCreation extends TestBase {
+public class ContactCreationTest extends TestBase {
 
   @Test
   public void testContactCreation() throws Exception {
