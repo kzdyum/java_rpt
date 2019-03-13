@@ -3,14 +3,13 @@ package kzdyum.rpt.addressbook.appmanager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class NavigationHelper {
-  private WebDriver driver;
+public class NavigationHelper extends HelperBase{
 
   public NavigationHelper(WebDriver driver) {
-    this.driver=driver;
+    super(driver);
   }
 
   public void goToGroupsPage() {
-    driver.findElement(By.linkText("GROUPS")).click();
+    click(By.linkText("GROUPS"));
   }
 }
